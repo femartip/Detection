@@ -154,4 +154,5 @@ cython_debug/
 #ZIP files
 windows_build/
 linux_build/
+models/
 
